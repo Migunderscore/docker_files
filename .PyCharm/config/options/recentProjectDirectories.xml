@@ -1,0 +1,32 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/user_files/Projects/commercial-analytics-4-impact" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/user_files/Projects/commercial-analytics-4-impact" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/user_files/Projects/commercial-analytics-4-impact" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/user_files/Projects/commercial-analytics-4-impact">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-191.6183.50" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1557931841293" />
+              <option name="buildTimestamp" value="1553003366897" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
+

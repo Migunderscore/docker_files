@@ -1,0 +1,56 @@
+2019-05-22 13:05:39,896 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2019-05-22 13:05:39,931 [     35]   INFO -        #com.intellij.idea.Main - IDE: PyCharm (build #PY-191.6183.50, 19 Mar 2019 13:49) 
+2019-05-22 13:05:39,931 [     35]   INFO -        #com.intellij.idea.Main - OS: Linux (3.10.0-957.10.1.el7.x86_64, amd64) 
+2019-05-22 13:05:39,931 [     35]   INFO -        #com.intellij.idea.Main - JRE: 11.0.2+9-b159.30 (JetBrains s.r.o) 
+2019-05-22 13:05:39,932 [     36]   INFO -        #com.intellij.idea.Main - JVM: 11.0.2+9-b159.30 (OpenJDK 64-Bit Server VM) 
+2019-05-22 13:05:39,932 [     36]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -Djdk.http.auth.tunneling.disabledSchemes="" -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/root/java_error_in_PYCHARM_%p.log -XX:HeapDumpPath=/root/java_error_in_PYCHARM.hprof -Didea.paths.selector=PyCharm2019.1 -Djb.vmOptionsFile=/opt/pycharm/bin/pycharm64.vmoptions -Didea.platform.prefix=Python 
+2019-05-22 13:05:39,932 [     36]   INFO -        #com.intellij.idea.Main - charsets: JNU=ANSI_X3.4-1968 file=ANSI_X3.4-1968 
+2019-05-22 13:05:39,953 [     57]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 21 ms 
+2019-05-22 13:05:40,364 [    468]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2019-05-22 13:05:40,376 [    480]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (JRE-managed HiDPI) 
+2019-05-22 13:05:41,356 [   1460]   INFO - m.intellij.ui.mac.touchbar.NST - OS doesn't support touchbar, skip nst loading 
+2019-05-22 13:05:47,560 [   7664]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor javaee-specific.xml 
+2019-05-22 13:05:47,564 [   7668]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor java-specific.xml 
+2019-05-22 13:05:47,577 [   7681]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-java-support.xml 
+2019-05-22 13:05:47,578 [   7682]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-properties-support.xml 
+2019-05-22 13:05:47,592 [   7696]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor js-nashorn-support.xml 
+2019-05-22 13:05:47,725 [   7829]   INFO - llij.ide.plugins.PluginManager - load plugin descriptors took 253 ms 
+2019-05-22 13:05:50,936 [  11040]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2019-05-22 13:05:50,950 [  11054]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2019-05-22 13:13:03,651 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2019-05-22 13:13:03,687 [     36]   INFO -        #com.intellij.idea.Main - IDE: PyCharm (build #PY-191.6183.50, 19 Mar 2019 13:49) 
+2019-05-22 13:13:03,687 [     36]   INFO -        #com.intellij.idea.Main - OS: Linux (3.10.0-957.10.1.el7.x86_64, amd64) 
+2019-05-22 13:13:03,687 [     36]   INFO -        #com.intellij.idea.Main - JRE: 11.0.2+9-b159.30 (JetBrains s.r.o) 
+2019-05-22 13:13:03,687 [     36]   INFO -        #com.intellij.idea.Main - JVM: 11.0.2+9-b159.30 (OpenJDK 64-Bit Server VM) 
+2019-05-22 13:13:03,687 [     36]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -Djdk.http.auth.tunneling.disabledSchemes="" -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/root/java_error_in_PYCHARM_%p.log -XX:HeapDumpPath=/root/java_error_in_PYCHARM.hprof -Didea.paths.selector=PyCharm2019.1 -Djb.vmOptionsFile=/opt/pycharm/bin/pycharm64.vmoptions -Didea.platform.prefix=Python 
+2019-05-22 13:13:03,688 [     37]   INFO -        #com.intellij.idea.Main - charsets: JNU=ANSI_X3.4-1968 file=ANSI_X3.4-1968 
+2019-05-22 13:13:03,708 [     57]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 20 ms 
+2019-05-22 13:13:04,116 [    465]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2019-05-22 13:13:04,128 [    477]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (JRE-managed HiDPI) 
+2019-05-22 13:13:05,096 [   1445]   INFO - m.intellij.ui.mac.touchbar.NST - OS doesn't support touchbar, skip nst loading 
+2019-05-22 13:13:09,658 [   6007]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor java-specific.xml 
+2019-05-22 13:13:09,659 [   6008]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor javaee-specific.xml 
+2019-05-22 13:13:09,673 [   6022]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor js-nashorn-support.xml 
+2019-05-22 13:13:09,677 [   6026]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-java-support.xml 
+2019-05-22 13:13:09,677 [   6026]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-properties-support.xml 
+2019-05-22 13:13:09,809 [   6158]   INFO - llij.ide.plugins.PluginManager - load plugin descriptors took 269 ms 
+2019-05-22 13:13:17,346 [  13695]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2019-05-22 13:13:17,357 [  13706]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2019-05-22 13:16:05,702 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2019-05-22 13:16:05,737 [     35]   INFO -        #com.intellij.idea.Main - IDE: PyCharm (build #PY-191.6183.50, 19 Mar 2019 13:49) 
+2019-05-22 13:16:05,737 [     35]   INFO -        #com.intellij.idea.Main - OS: Linux (3.10.0-957.10.1.el7.x86_64, amd64) 
+2019-05-22 13:16:05,737 [     35]   INFO -        #com.intellij.idea.Main - JRE: 11.0.2+9-b159.30 (JetBrains s.r.o) 
+2019-05-22 13:16:05,737 [     35]   INFO -        #com.intellij.idea.Main - JVM: 11.0.2+9-b159.30 (OpenJDK 64-Bit Server VM) 
+2019-05-22 13:16:05,738 [     36]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -Djdk.http.auth.tunneling.disabledSchemes="" -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/root/java_error_in_PYCHARM_%p.log -XX:HeapDumpPath=/root/java_error_in_PYCHARM.hprof -Didea.paths.selector=PyCharm2019.1 -Djb.vmOptionsFile=/opt/pycharm/bin/pycharm64.vmoptions -Didea.platform.prefix=Python 
+2019-05-22 13:16:05,738 [     36]   INFO -        #com.intellij.idea.Main - charsets: JNU=ANSI_X3.4-1968 file=ANSI_X3.4-1968 
+2019-05-22 13:16:05,758 [     56]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 20 ms 
+2019-05-22 13:16:06,158 [    456]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2019-05-22 13:16:06,170 [    468]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (JRE-managed HiDPI) 
+2019-05-22 13:16:07,051 [   1349]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor javaee-specific.xml 
+2019-05-22 13:16:07,054 [   1352]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor java-specific.xml 
+2019-05-22 13:16:07,070 [   1368]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-java-support.xml 
+2019-05-22 13:16:07,070 [   1368]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-properties-support.xml 
+2019-05-22 13:16:07,093 [   1391]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor js-nashorn-support.xml 
+2019-05-22 13:16:07,212 [   1510]   INFO - llij.ide.plugins.PluginManager - load plugin descriptors took 262 ms 
+2019-05-22 13:16:10,583 [   4881]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2019-05-22 13:16:10,596 [   4894]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
